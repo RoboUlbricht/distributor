@@ -1,0 +1,16 @@
+{
+  "name": "03-express-static",
+  "version": "1.0.0",
+  "description": "Static files from Express",
+  "main": "static.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robo Ulbricht",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "pug": "~2.0.0-beta11",
+    "serve-index": "^1.9.0"
+  }
+}
